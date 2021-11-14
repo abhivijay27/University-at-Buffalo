@@ -893,7 +893,7 @@ void add_new_client(struct client **head_ref,int fdaccept, struct sockaddr_in cl
     //printf("%d",new_node->client_status);
     
     if(*head_ref==NULL){
-       // printf("Hola if\n");
+       // printf("Hola if \n");
         
        // *c_ref = *head_ref;
         new_node->next = NULL;
