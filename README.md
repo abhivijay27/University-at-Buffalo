@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhivijay27
-- 👀 I’m interested in designing websites, coding
-- 🌱 I’m currently pursuing my masters in Computer Science at SUNY Buffalo
+- 👀 Interested in designing websites, coding
+- 🌱 Currently pursuing my Masters in Computer Science and Engineering at State University Of New York at Buffalo
 - 💞️ I’m looking to collaborate on SharePoint projects, Front end development
 - 📫 How to reach me abhi.vijaysugan@gmail.com/ +17163480740
 
