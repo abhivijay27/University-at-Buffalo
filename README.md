@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhivijay27
+- 👋 Hola! I’m Abhi Vijayakumar
 - 👀 Interested in designing websites, coding
 - 🌱 Currently pursuing my Masters in Computer Science and Engineering at State University Of New York at Buffalo
 - 💞️ I’m looking to collaborate on SharePoint projects, Front end development
